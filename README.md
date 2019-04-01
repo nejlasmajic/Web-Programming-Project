@@ -1,4 +1,4 @@
-# Web-Programming-Project
+# Web-Engineering-Project
 Project for Web Programming Course
 
 This project will be fully functional MEAN stack application, and will contain:
